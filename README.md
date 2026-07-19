@@ -23,5 +23,5 @@ This project bypasses traditional input devices, allowing you to launch applicat
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YOUR-USERNAME/gesture-controller.git](https://github.com/thejesh-pixel/gesture-controller.git)
+git clone [https://github.com/YOUR-USERNAME/gesture-controller.git](https://github.com/thejesh-kumar-r/gesture-controller.git)
 cd gesture-controller
